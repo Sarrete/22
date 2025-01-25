@@ -149,7 +149,7 @@ function cargarContenidoPorIdioma() {
         loadTranslations('en'); // Cargar contenido en inglés por defecto
     }
 }
-
+ 
 // Llama a la función al cargar la página
 cargarContenidoPorIdioma();
 
