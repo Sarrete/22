@@ -21,7 +21,6 @@ publish = "public"
 base = ""
 command = "npm run build"
 
-
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
 
